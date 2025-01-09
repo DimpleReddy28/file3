@@ -1,0 +1,9 @@
+Types of functionns:-
+********
+1.named functions;-
+2.Anonymus functions
+3.function expression
+4.Immediate invoke function expression(IIFE)
+5.Arrow function
+6.Higher order function
+7. Callback function
