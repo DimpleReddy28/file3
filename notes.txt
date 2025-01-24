@@ -198,3 +198,4 @@ DOM methods:-
 
 innerText :- it is a property used to manipulate / add just plain text.
 innerHTML :- it is a property used to add /remove the content along with tags.
+
