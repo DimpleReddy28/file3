@@ -87,7 +87,7 @@ mainele.appendchild(topEle);
 mainEle.appendChild(bottomEle);
 document.body.appendChild(mainEle); */
 
-let form = document.querySelector("form");
+/*let form = document.querySelector("form");
 
 let username = document.getElementById("uName");
 let password = document.getElementById("uPass");
@@ -131,4 +131,42 @@ form.addEventListener("submit" , event=>{
     }
     console.log(userDetails);
     sessionStorage.setItem("userData",JSON.stringify(userDetails));
-})
+})*/
+
+
+
+
+let user1 = {
+    EMPid : 1,
+    EMPname : "Dimple",
+    EMPcompany : "TCS",
+    EMPsalary : "address",
+    EMPaddress : {
+        EMPcity : "Piduguralla",
+        EMParea : "Postoffice street"
+    }
+};
+console.log(user1);
+let user2 = {
+    EMPid : 2,
+    EMPname : "Dimple",
+    EMPcompany : "TCS",
+    EMPsalary : "address",
+    EMPaddress : {
+        EMPcity : "Piduguralla",
+        EMParea : "Postoffice street"
+    }
+};
+console.log(user2);
+let user3 = {
+    EMPid : 3,
+    EMPname : "Dimple",
+    EMPcompany : "TCS",
+    EMPsalary : "address",
+    EMPaddress : {
+        EMPcity : "Piduguralla",
+        EMParea : "Postoffice street"
+    }
+};
+console.log(user3);
+

@@ -203,3 +203,10 @@ dynamic creation of html element from javascript:-
 **********************************************
 - to create dynamic element in JS we have a method called as "document.createE1"
 - to create an attributewe have a method called as "setattribute"
+
+
+TASK:-
+*****************
+take a array of employee object, where each object contains properties such as EMPid,EMPname,EMPcompayne,EMPsalary and EMPaddress 
+where EMPaddress is further having 2 more properties of objectsuch as EMPcity and EMParea. print these properties in the form of a table on the UI
+by using javascript
